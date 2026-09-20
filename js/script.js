@@ -387,7 +387,7 @@ $("#contactForm").submit(function (event) {
         encodeURIComponent(pesan);
 
     // Nomor WhatsApp ARIL MOTORS
-    var whatsappNumber = "6282225487347";
+    var whatsappNumber = "6282353231630";
 
     // Link WhatsApp
     var whatsappURL =
