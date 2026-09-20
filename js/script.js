@@ -377,7 +377,7 @@ $("#contactForm").submit(function (event) {
 
     // Membuat pesan WhatsApp
     var whatsappMessage =
-        "Halo ARIL MOTORS,%0A%0A" +
+        "Assalamualaikum ZAHRAH MOTOR,%0A%0A" +
         "*DATA PELANGGAN*%0A" +
         "Nama: " + encodeURIComponent(nama) + "%0A" +
         "No. HP: " + encodeURIComponent(telepon) + "%0A" +
